@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Brick pool for life",
+    "source": "https://egea.vercel.app",
+    "demo": "https://www.figma.com/design/4tphQThKuZIQkO6uTNyO93/Programovanie?node-id=0-1&t=lGFI2fz5fQ3eDqBb-0",
+    "description": "<p>[React, NextJS, NodeJS, TailwindCSS, Ant Design] <br/> Designed and deployed to provide users with a streamlined and interactive experience. The design was crafted in Figma, allowing for a collaborative and iterative design process, ensuring the final product is both aesthetically pleasing and functional.</p>",
+    "createdAt": "2023-03-28T08:52:29.491Z",
+    "updatedAt": "2023-03-28T08:52:29.640Z",
+    "thumbnail": "https://s3-alpha.figma.com/hub/file/5433111829/024615a0-6f36-441a-aefa-e097765b8639-cover.png",
+    "interactions": {
+      "likes": 2
+    },
+    "platform": "figma"
+  },
+
+  {
+    "title": "Bioteco | Life Science",
+    "source": "https://www.bioteco.sk/en",
+    "demo": "https://www.figma.com/design/SPuNKtE3AQhKydEBzoGIIm/BIOTECO-programovanie?m=dev",
+    "description": "<p>[React, NextJS, NodeJS, TailwindCSS, Ant Design] <br/> The project encompassed both the design and development of a website, with the Figma link representing the design phase and showcasing the final, deployed website. The process involved translating the Figma designs into a functional and responsive website that aligns with the client's vision, ensuring a seamless user experience from design to development.</p>",
+    "createdAt": "2023-06-11T08:52:29.491Z",
+    "updatedAt": "2023-06-11T08:52:29.640Z",
+    "thumbnail": "https://s3-alpha.figma.com/hub/file/5433111829/024615a0-6f36-441a-aefa-e097765b8639-cover.png",
+    "interactions": {
+      "likes": 2
+    },
+    "platform": "figma"
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "title": "amaze.me",
+    "description": "A two-dimensional maze generator and visualizer in 3D space.",
+    "source": "https://github.com/BSoDium/amaze.me",
+    "demo": "https://amaze.me.bsodium.fr/",
+    "language": "TypeScript",
+    "platform": "github",
+    "createdAt": "2023-01-09T06:48:34Z",
+    "updatedAt": "2024-06-22T17:28:06Z",
+    "interactions": {
+      "stars": 0,
+      "forks": 0
+    }
+  },
+  {
+    "title": "avatar",
+    "description": "A modern SVG avatar generator for the web",
+    "source": "https://github.com/BSoDium/avatar",
+    "demo": "https://avatar.bsodium.fr",
+    "language": "TypeScript",
+    "platform": "github",
+    "createdAt": "2024-06-12T17:35:52Z",
+    "updatedAt": "2024-06-16T16:59:17Z",
+    "interactions": {
+      "stars": 0,
+      "forks": 0
+    }
+  },
+  {
+    "title": "lidar",
+    "description": "A VR game about escaping a dark maze by scanning your surroundings.",
+    "source": "https://github.com/BSoDium/lidar",
+    "demo": "https://lidar.bsodium.fr",
+    "language": "JavaScript",
+    "platform": "github",
+    "createdAt": "2023-01-25T00:45:01Z",
+    "updatedAt": "2024-03-02T01:47:52Z",
+    "interactions": {
+      "stars": 2,
+      "forks": 0
+    }
+  },
+  {
+    "title": "light engine",
+    "description": "An inverse rasterizer engine demo, written in java using swing.",
+    "source": "https://github.com/BSoDium/light-engine",
+    "demo": "",
+    "language": "Java",
+    "platform": "github",
+    "createdAt": "2022-04-12T08:56:34Z",
+    "updatedAt": "2023-05-17T19:06:30Z",
+    "interactions": {
+      "stars": 0,
+      "forks": 0
+    }
+  },
+  {
+    "title": "randomite",
+    "description": "A basic gaussian random number generator with a modern chart visualiser.",
+    "source": "https://github.com/BSoDium/randomite",
+    "demo": "https://randomite.bsodium.fr/",
+    "language": "TypeScript",
+    "platform": "github",
+    "createdAt": "2022-12-16T13:17:50Z",
+    "updatedAt": "2023-05-17T19:09:03Z",
+    "interactions": {
+      "stars": 0,
+      "forks": 0
+    }
+  },
+  {
+    "title": "Slashboard desktop",
+    "description": "A simple and convenient dashboard to monitor the activity and performance of your home servers.",
+    "source": "https://github.com/BSoDium/Slashboard-desktop",
+    "demo": "",
+    "language": "TypeScript",
+    "platform": "github",
+    "createdAt": "2021-09-03T16:27:46Z",
+    "updatedAt": "2024-06-15T17:22:24Z",
+    "interactions": {
+      "stars": 258,
+      "forks": 14
+    }
+  },
+  {
+    "title": "Svg gradients",
+    "description": "A collection of methods for rendering svg grainy/noisy gradients",
+    "source": "https://github.com/BSoDium/Svg-gradients",
+    "demo": "https://svg-gradients.vercel.app/",
+    "language": "TypeScript",
+    "platform": "github",
+    "createdAt": "2024-06-03T23:16:35Z",
+    "updatedAt": "2024-06-07T12:59:03Z",
+    "interactions": {
+      "stars": 1,
+      "forks": 0
+    }
+  },
+  {
+    "title": "The PyOS Project",
+    "description": "An orbital mechanics simulator, entirely coded in Python, which uses the panda3D engine. The acronym PyOS stands for \"Python orbit simulator\".",
+    "source": "https://github.com/BSoDium/The-PyOS-Project",
+    "demo": "",
+    "language": "Python",
+    "platform": "github",
+    "createdAt": "2019-03-04T13:56:43Z",
+    "updatedAt": "2024-06-26T14:10:23Z",
+    "interactions": {
+      "stars": 70,
+      "forks": 11
+    }
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Revel.xyz | Digital Assets Trading App",
+    "description": "A React Native-based iOS and Android application for trading media assets such as photos and videos. The app allows users to collect and share minted assets. I used Firebase and GraphQL for the back end. I also implemented an asset creation AI.",
+    "source": "https://apps.apple.com/us/app/revel-xyz/id1614465131?mt=8",
+    "createdAt": "2023-08-01T00:00:00.000Z",
+    "platform": "researchgate"
+  },
+  {
+    "title": "Yousound | Music Streaming and Shopping Application",
+    "description": "A React Native-based iOS music album and shopping application. I developed the app from scratch using my experience in music players, audio streaming play, stripe payment integration, shopping implementation, and REST API integration.",
+    "source": "https://www.yousound.com/",
+    "createdAt": "2020-04-01T00:00:00.000Z",
+    "platform": "researchgate"
+  },
+  {
+    "title": "Trava | Plan Your Next Trip",
+    "description": "I worked on the Trava app as a React Native dev. I built those slick UIs you see, made sure all the cool features like activity recommendations, group voting, and itinerary creation work flawlessly. Also, integrated the chat and social sharing for memories. Basically, I made sure the app is smooth and fun to use.",
+    "scource": "https://apps.apple.com/us/app/trava-plan-your-next-trip/id1597762077",
+    "createdAt": "2024-06-03T00:00:00.000Z",
+    "platform": "researchgate"
+  },
+  {
+    "title": "ezCater - Business Catering",
+    "description": "A React Native-based mobile food delivery service product for iOS and Android. As the front-end mobile engineer, I worked with React Native tasks, including the REST API client. I also employed test-driven and Agile software development for CI/CD.",
+    "source": "https://apps.apple.com/us/app/ezcater-business-catering/id1162865183",
+    "createdAt": "2022-11-11T00:00:00.000Z",
+    "platform": "researchgate"
+  }
+]
